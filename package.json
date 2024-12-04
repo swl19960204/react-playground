@@ -9,6 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "homepage": "https://swl19960204.github.io/react-playground",
   "dependencies": {
     "@babel/standalone": "^7.25.6",
     "@monaco-editor/react": "^4.6.0",
