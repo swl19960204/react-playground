@@ -25,4 +25,4 @@ jobs:
         with:
           ACCESS_TOKEN: ${{ secrets.REACT_PLAYGROUND_TOKEN }}
           BRANCH: gh-pages
-          FOLDER: build
+          FOLDER: dist
