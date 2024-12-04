@@ -8,9 +8,6 @@ export default function EditorWrap() {
   const {
     files,
     theme,
-    removeFile,
-    addFile,
-    updateFileName,
     selectedFileName,
     setFiles,
   } = useContext(PlaygroundContext);
