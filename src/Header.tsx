@@ -52,7 +52,7 @@ const Header = () => {
           <img src={Download} alt="download" />
         </button>
         <a
-          href="https://github.com/vuejs/core/tree/main/packages-private/sfc-playground"
+          href="https://github.com/swl19960204/react-playground"
           target="_blank"
           title="View on GitHub"
           className="github"
